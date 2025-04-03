@@ -1,0 +1,30 @@
+body {
+    min-height: 400px;
+    border: 8px solid black;
+    display: flex; /* adiciona a nocao de direcao main <-> e cross a esse elemento e aos que estao dentro dele */
+    flex-direction: column; /* ajusta qual é a main direcao e quem é a cross direcao. Cada linha tem sua direcao*/
+    justify-content:center; /* ajusta posicao na main axis  relativamente pode determinar space-around, space evenly*/
+    align-items: center; /*ajusta posicao na cross axis relativamente */
+    gap: 20px; /* adiciona um espaco entre os elementos */
+    flex-wrap: nowrap; /* faz com que os elementos vao para baixo caso fique muito pequeno o espaco */
+    align-content: space-around; /* controla uma main e cross axis para todos os elementos (global) */
+
+
+}
+.box{ 
+    display: flex;
+    height:200px;
+    width:200px;
+    background-color: blue;
+    font-size:40pt;
+    flex-shrink: 0; /* indica que elementos nao irao expremer (um numero maior que 1 indica que expreme mais rapido)*/
+    flex-grow: 0; /* indica que elementos nao crescem quando expandido (um numero maior que 1 indica que cresce mais rapido)*/
+    max-width: 300px; /*indica qual tamanho maximo que pode ter */
+    min-width: 100px; /* indica qual o tamanho minimo que pode ter */
+}
+/* como se fosse uma funcao, que muda o comportamento baseado numa propriedade) */
+@media(max-width: 575px){
+    body {
+        flex-wrap: wrap;
+    }
+}

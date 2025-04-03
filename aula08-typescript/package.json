@@ -1,0 +1,14 @@
+{
+  "name": "typescript-tutorial-types",
+  "version": "1.0.0",
+  "description": "Tutorial on Typescript type system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo S. Martins",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}

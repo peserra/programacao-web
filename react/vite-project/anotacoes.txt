@@ -1,0 +1,26 @@
+Aqui está uma lista de comandos em React para facilitar a cópia:
+
+Criar um projeto React com Vite:
+
+bash
+npm init vite@latest
+Instalar as dependências:
+
+bash
+npm install
+Executar o projeto:
+
+bash
+npm run dev
+Listar arquivos na pasta src:
+
+bash
+ls src
+Gerar código de produção:
+
+bash
+npm run build
+Instalar tipagem de módulos CSS (se necessário):
+
+bash
+npm install --save-dev @types/css-modules

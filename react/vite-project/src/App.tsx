@@ -1,5 +1,8 @@
-import './App.css';
+import './Styles/App.css';
+import { ClickCounter } from './ClickCounter';
 import { GreetingList } from "./GreetingList";
+import { Imutable } from './Imutable';
+import { FetchUser } from './FetchUser';
 
 export type User = {
   name: string;
@@ -20,6 +23,8 @@ export function App() {
         Welcome to the world of react!!
       </p>
       <GreetingList users={users} />
+      <ClickCounter />
+      <FetchUser />
     </div>
   );
 }

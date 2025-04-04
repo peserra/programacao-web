@@ -1,0 +1,12 @@
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter-button {
+  color: white;
+  border-radius: 8px;
+  background-color: #4CAF50;
+}

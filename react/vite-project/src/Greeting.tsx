@@ -1,4 +1,4 @@
-import style from './Greeting.module.css';
+import style from './Styles/Greeting.module.css';
 type GreetingProps = {
   title: string;
   name: string;

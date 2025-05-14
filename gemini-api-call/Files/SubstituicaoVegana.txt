@@ -1,0 +1,154 @@
+Substituição Vegana - Guia Prático
+
+Introdução
+Essa ferramenta ajuda a montar refeições equilibradas e variadas usando a lista de substituição alimentar. Ela apresenta opções de alimentos dentro do mesmo grupo nutricional, com quantidades equivalentes.
+
+Dicas para Uso da Lista:
+Entenda os grupos: Cada grupo compartilha características nutricionais semelhantes (ex.: pão e tapioca são carboidratos).
+
+Combine os grupos: Misture alimentos de diferentes grupos para refeições completas (ex.: carboidratos + proteínas + vegetais).
+
+Consulte regularmente: Use a lista para planejar compras e refeições.
+
+Experimente novos alimentos: Aproveite a variedade para diversificar suas refeições.
+
+Personalize: Ajuste quantidades conforme suas necessidades nutricionais.
+
+Planeje: Substitua alimentos para evitar monotonia (ex.: troque maçã por outra fruta).
+
+Veja quantidades equivalentes: Cada porção indicada mantém o valor nutricional similar.
+
+=== CAFÉ DA MANHÃ ===
+Componentes:
+- 1 carboidrato
+- 1 proteína
+- 1 gordura (opcional)
+- 1 vitamina/mineral (fruta)
+
+Exemplos:
+- Torrada de pão francês + Homus + Mamão
+- Mingau de aveia + Pasta de amendoim + Banana
+- Tapioca + Tofu grelhado + Vitamina (bebida de nuts + morangos)
+
+=== TABELAS DE SUBSTITUIÇÃO ===
+
+1. CARBOIDRATOS (70 kcal/porção)
+| Alimento               | Quantidade | Porção                   | Calorias |
+|------------------------|------------|--------------------------|----------|
+| Pão francês            | 25g        | 1/2 unidade              | 70 kcal  |
+| Pão de forma (milho)   | 25g        | 1 fatia                  | 70 kcal  |
+| Pão de forma (trigo)   | 25g        | 1 fatia                  | 70 kcal  |
+| Torrada                | 20g        | 2 unidades               | 70 kcal  |
+| Aveia em flocos        | 20g        | 1 colher de sopa cheia   | 70 kcal  |
+| Tapioca                | 25g        | 1 colher de sopa cheia   | 70 kcal  |
+| Cuscuz                 | 60g        | 3 colheres de sopa       | 70 kcal  |
+| Pão de batata          | 25g        | 1/2 unidade              | 70 kcal  |
+| Mandioca               | 50g        | 1 unidade pequena        | 70 kcal  |
+| Batata-doce            | 50g        | 1 unidade pequena        | 70 kcal  |
+
+2. FRUTAS (70 kcal/porção)
+| Alimento               | Quantidade | Porção                   | Calorias |
+|------------------------|------------|--------------------------|----------|
+| Abacaxi                | 145g       | 1 fatia grande           | 70 kcal  |
+| Acerola                | 200g       | 3.5 unidades             | 70 kcal  |
+| Ameixa                 | 130g       | 3 unidades               | 70 kcal  |
+| Banana da terra        | 55g        | 1/2 unidade grande       | 70 kcal  |
+| Banana maçã            | 80g        | 1 unidade                | 70 kcal  |
+| Banana nanica          | 75g        | 1 unidade                | 70 kcal  |
+| Banana ouro            | 80g        | 1 unidade pequena        | 70 kcal  |
+| Banana prata           | 79g        | 1 unidade                | 70 kcal  |
+| Figo                   | 175g       | 3 unidades pequenas      | 70 kcal  |
+| Goiaba                 | 130g       | 1/2 unidade              | 70 kcal  |
+| Jabuticaba             | 125g       | 20 unidades              | 70 kcal  |
+| Kiwi                   | 135g       | 2 unidades               | 70 kcal  |
+| Laranja lima           | 150g       | 2 unidades               | 70 kcal  |
+| Laranja pera           | 190g       | 2 unidades               | 70 kcal  |
+| Limão                  | 350g       | 4 unidades               | 70 kcal  |
+| Maçã argentina         | 110g       | 1 unidade                | 70 kcal  |
+| Maçã fuji              | 130g       | 1 unidade                | 70 kcal  |
+| Mamão formosa          | 155g       | 1 fatia                  | 70 kcal  |
+| Mamão papaia           | 175g       | 1 unidade                | 70 kcal  |
+| Manga                  | 100g       | 1 unidade                | 70 kcal  |
+| Maracujá               | 100g       | 1 xícara de chá          | 70 kcal  |
+| Melancia               | 210g       | 2 fatias                 | 70 kcal  |
+| Melão                  | 240g       | 2 fatias                 | 70 kcal  |
+| Nectarina              | 175g       | 1 unidade                | 70 kcal  |
+| Morango                | 230g       | 20 unidades              | 70 kcal  |
+| Pêra                   | 125g       | 1 unidade                | 70 kcal  |
+| Pêssego                | 185g       | 2 unidades               | 70 kcal  |
+| Uva                    | 140g       | 8 unidades               | 70 kcal  |
+
+3. PROTEÍNAS VEGETAIS (80 kcal/porção)
+| Alimento               | Quantidade | Porção                   | Calorias |
+|------------------------|------------|--------------------------|----------|
+| Homus                 | 30g        | 1 colher de sopa cheia   | 80 kcal  |
+| Pasta de soja         | 50g        | 2 colheres de sopa       | 80 kcal  |
+| Tofu                  | 120g       | 6 fatias finas           | 80 kcal  |
+| Tahine                | 15g        | 1 colher de sopa         | 80 kcal  |
+| Proteína de soja      | 25g        | 3 colheres de sopa       | 80 kcal  |
+
+4. GORDURAS (80 kcal/porção)
+| Alimento               | Quantidade | Porção                   | Calorias |
+|------------------------|------------|--------------------------|----------|
+| Amêndoas torradas     | 15g        | 15 unidades              | 90 kcal  |
+| Castanha de caju      | 15g        | 8 unidades               | 80 kcal  |
+| Coco cru              | 20g        | 1 pedaço pequeno         | 80 kcal  |
+| Nozes                 | 15g        | 3 unidades               | 80 kcal  |
+| Castanha do Pará      | 15g        | 4 unidades               | 80 kcal  |
+| Abacate               | 90g        | 3 colheres de sopa       | 80 kcal  |
+| Pasta de nuts         | 20g        | 2 pontas de faca         | 80 kcal  |
+| Linhaça/Chia          | 20g        | 4 colheres rasas de chá  | 80 kcal  |
+| Bebida de nuts        | 300g       | 1 copo e 1/4             | 80 kcal  |
+
+=== LANCHE INTERMEDIÁRIO ===
+Componentes:
+- 1 carboidrato ou fruta
+- 1 fibra ou proteína
+- 1 gordura (opcional)
+
+Exemplos:
+- Chips de batata-doce + Pasta de amendoim
+- Mamão + Semente de abóbora
+
+=== ALMOÇO/JANTAR ===
+Componentes:
+- 1 carboidrato
+- 1 proteína vegetal
+- 2 porções de vegetais (vitaminas/minerais)
+
+Exemplos:
+- Arroz + Feijão + Couve refogada + Cenoura
+- Strogonoff de palmito + Quinoa + Legumes assados
+
+1. CARBOIDRATOS (50 kcal/porção)
+| Alimento               | Quantidade | Porção                   | Calorias |
+|------------------------|------------|--------------------------|----------|
+| Arroz branco cozido    | 40g        | 2 colheres de sopa       | 50 kcal  |
+| Batata baroa cozida    | 60g        | 1 unidade média          | 50 kcal  |
+| Batata-doce cozida     | 65g        | 8 fatias médias          | 50 kcal  |
+| Mandioca cozida        | 40g        | 1 pedaço pequeno         | 50 kcal  |
+| Inhame                 | 45g        | 1 pedaço pequeno         | 50 kcal  |
+| Macarrão cozido        | 40g        | 1 colher de servir       | 50 kcal  |
+| Quinoa                 | 40g        | 2 colheres de sopa       | 50 kcal  |
+
+2. PROTEÍNAS VEGETAIS (70 kcal/porção)
+| Alimento               | Quantidade | Porção                   | Calorias |
+|------------------------|------------|--------------------------|----------|
+| Feijão carioca        | 100g       | 5 colheres de sopa (rasas)| 70 kcal  |
+| Lentilha cozida       | 60g        | 3 colheres de sopa       | 70 kcal  |
+| Grão-de-bico cozido   | 90g        | 3 colheres de sopa       | 70 kcal  |
+| Proteína de soja      | 50g        | 2 colheres de sopa       | 70 kcal  |
+
+3. VEGETAIS TIPO B (40 kcal/porção)
+| Alimento               | Quantidade | Porção                   | Calorias |
+|------------------------|------------|--------------------------|----------|
+| Abóbora               | 100g       | 4 colheres de sopa       | 40 kcal  |
+| Beterraba             | 100g       | 4 colheres de sopa       | 40 kcal  |
+| Cenoura               | 100g       | 4 colheres de sopa       | 40 kcal  |
+
+4. VEGETAIS TIPO A (consumo à vontade)
+- Alface, agrião, espinafre, brócolis, couve, pepino, rúcula, tomate.
+
+=== OBSERVAÇÕES ===
+- As quantidades são aproximadas; ajuste conforme necessidade.
+- Consulte um nutricionista para personalização.
